@@ -137,7 +137,7 @@ const PROJECTS: Project[] = [
     features: ["全台首創全3D 撲克手遊", "首創倒數錦標賽玩法", "全新風格拉霸機台", "徽章成就系統", "Avatar 與變裝系統", "多視角切換", "華麗3D 場景"],
     milestone: "上架產品",
     isLandscape: true,
-    images: ["/images/projects/cyberpoker_1.png", "https://picsum.photos/seed/cyber2/1200/600"]
+    images: ["images/projects/cyberpoker_1.png", "https://picsum.photos/seed/cyber2/1200/600"]
   },
   {
     title: "聖殿德州撲克",
@@ -145,7 +145,7 @@ const PROJECTS: Project[] = [
     features: ["信用版德州撲克", "NL Holdem", "牌局紀錄", "貼圖語音包", "勝率數據分析"],
     milestone: "半年內完成開發，上線首月營收200萬",
     isLandscape: false,
-    images: ["/images/projects/temple_1.png", "https://picsum.photos/seed/temple2/400/800"]
+    images: ["images/projects/temple_1.png", "https://picsum.photos/seed/temple2/400/800"]
   },
   {
     title: "傳說麻將",
@@ -153,7 +153,7 @@ const PROJECTS: Project[] = [
     features: ["首創戰隊麻將手遊", "首創3D角色互動", "技能系統", "潮流電音風格"],
     milestone: "募資五千萬(已下架產品)",
     isLandscape: true,
-    images: ["/images/projects/mahjong_1.png", "https://picsum.photos/seed/legend2/1200/600"]
+    images: ["images/projects/mahjong_1.png", "https://picsum.photos/seed/legend2/1200/600"]
   },
   {
     title: "黑鑽娛樂城",
@@ -161,7 +161,7 @@ const PROJECTS: Project[] = [
     features: ["電競類麻將手遊", "首創天梯排位機制", "月冠軍排行獎勵", "首創無二吹牛排位賽", "另有三項棋牌類遊戲串接", "可支援現金與信用兩種模式"],
     milestone: "同時在線用戶達五千人，三個月營收七百萬",
     isLandscape: true,
-    images: ["/images/projects/diamond_1.png", "https://picsum.photos/seed/black2/1200/600"]
+    images: ["images/projects/diamond_1.png", "https://picsum.photos/seed/black2/1200/600"]
   }
 ];
 
